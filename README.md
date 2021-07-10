@@ -9,7 +9,7 @@ This is the source code of **Team Data Preparator** for the [1st LEC Data Challe
 You may want to check out the following:
 
 - [Presentation slides](presentation-armax-forecasting-2019.pdf)
-- [Jupyter notebook](lec-data-challenge.ipynb) - [HTML](lec-data-challenge.html)
+- [Jupyter notebook](lec-data-challenge.ipynb) - [HTML](https://htmlpreview.github.io/?https://github.com/blu3r4y/lec-data-challenge-2019/blob/master/lec-data-challenge.html)
 
 :mag: :mag: :mag:
 
